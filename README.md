@@ -1,3 +1,4 @@
+<img src="https://i.pinimg.com/736x/39/d1/af/39d1afd49208a4657e0efd9e7f4c9cef.jpg" width="100%">
 <h1 align="center">Hi 👋, I'm Muhammad Afnan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
